@@ -27,9 +27,9 @@ cd fantasy_basketball_stats_predictor
 2. Install the required Python packages:
 
 Dependencies:
-    nba_api – Fetch NBA player stats.
-    pandas – Handle and compute game logs.
-    requests – Fetch NBA schedule data.
+- nba_api – Fetch NBA player stats.
+- pandas – Handle and compute game logs.
+- requests – Fetch NBA schedule data.
 
 ```bash 
 pip install nba_api pandas requests
@@ -55,6 +55,7 @@ python main.py
 
 ## Example
 
+```bash
 🏀 Welcome to Fantasy Scheduler!
 1️⃣ Calculate your own roster stats
 2️⃣ Compare two fantasy teams
@@ -66,3 +67,4 @@ Enter Your roster players (comma-separated): LeBron James, Stephen Curry
 PTS     : 27.45
 REB     : 7.89
 ...
+```
