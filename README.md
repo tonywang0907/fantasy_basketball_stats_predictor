@@ -26,15 +26,12 @@ cd fantasy_basketball_stats_predictor
 
 2. Install the required Python packages:
 
-Dependencies:
-- nba_api – Fetch NBA player stats.
-- pandas – Handle and compute game logs.
-- requests – Fetch NBA schedule data.
-
 ```bash 
 pip install nba_api pandas requests
 ```
-
+- nba_api – Fetch NBA player stats.
+- pandas – Handle and compute game logs.
+- requests – Fetch NBA schedule data.
 ---
 
 ## Usage 
