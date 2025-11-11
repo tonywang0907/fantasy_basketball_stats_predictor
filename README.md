@@ -20,7 +20,7 @@
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/fantasy_basketball_stats_predictor.git
+https://github.com/tonywang0907/fantasy_basketball_stats_predictor.git
 cd fantasy_basketball_stats_predictor
 ```
 
